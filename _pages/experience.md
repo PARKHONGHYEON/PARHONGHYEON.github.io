@@ -5,8 +5,6 @@ title: "Experience"
 author_profile: true
 ---
 
-# Professional Experience
-
 ## Silicon Mitus
 
 **Principal Research Engineer, Analog IC Design**
