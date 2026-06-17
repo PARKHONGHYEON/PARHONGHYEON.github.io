@@ -21,57 +21,38 @@ Dec. 2021 – Present
 * ESD circuit design and reliability verification
 * Test support for silicon validation and characterization
 
-### Major Projects
+### Fuel Gauge IC Development
 
 #### 1-Cell Fuel Gauge IC & 2-Cell Fuel Gauge IC
 
 * Designed **Sigma-Delta ADC** for battery monitoring applications
-
-* Designed and verified analog building blocks including:
+* Designed and verified key analog building blocks:
 
   * Low-Dropout Regulator (LDO)
   * Bandgap Reference (BGR)
   * Under-Voltage Lockout (UVLO)
   * Power-On Reset (POR)
   * Phase-Locked Loop (PLL)
+* Participated in system-level architecture development and analog front-end design
+* Supported tape-out, silicon validation, and mass production
 
-* Participated in system-level architecture development and analog front-end design for fuel gauge applications
-
-* Successfully supported tape-out, silicon validation, and mass production of a Fuel Gauge IC product
-
-### Ongoing Projects
+### EIS Battery Diagnostics IC
 
 #### Electrochemical Impedance Spectroscopy (EIS)
 
-* Designed the EIS Analog Front-End (AFE) and contributed to overall system architecture development
-
-* Designed and verified key analog circuit blocks including:
-
+* Designed the EIS Analog Front-End (AFE)
+* Contributed to overall system architecture development
+* Designed and verified key analog circuit blocks:
   * Programmable Gain Amplifier (PGA)
   * Excitation Block
-
 * Developed signal acquisition and measurement circuits for battery diagnostic applications
 
-### Technical Expertise
-
-* Sigma-Delta ADC Design
-* Bandgap Reference (BGR)
-* Low-Dropout Regulator (LDO)
-* Power-On Reset (POR)
-* Under-Voltage Lockout (UVLO)
-* Phase-Locked Loop (PLL)
-* Electrochemical Impedance Spectroscopy (EIS) AFE Design
-* ESD Protection Circuit Design
-* Analog Verification
-* Monte Carlo Analysis
-* Corner Analysis
-* Silicon Debug and Validation
 
 ### Design Tools
 
 * Cadence Virtuoso
 * Spectre
+* Mentor Calibre
 * Verilog-A
-* ADE Explorer / Assembler
-* MATLAB
-* Git
+* Python(For Mixed Signal Anaylsis)
+
