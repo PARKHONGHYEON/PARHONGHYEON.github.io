@@ -5,7 +5,6 @@ title: "Education"
 author_profile: true
 ---
 
-# Education
 
 ## Kyung Hee University (M.S.)
 
@@ -30,18 +29,18 @@ author_profile: true
 
 ### Research Outputs
 
-#### Conference Publication
+**Conference Publication**
 
-**A mm-Sized Implantable Glucose Sensor Using a Fluorescent Hydrogel**
+*A mm-Sized Implantable Glucose Sensor Using a Fluorescent Hydrogel*
 
 * **Authors:** Hyeonkeon Lee, Honghyeon Park, Taein Kim, Mi Song Nam, Yun Jung Heo*, Sanghoek Kim*
 * **Conference:** 2023 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)
 * **Role:** Co-Author
 * **Publication:** [IEEE Xplore](https://ieeexplore.ieee.org/document/10186146)
 
-#### Patent
+**Patent**
 
-**Measurement System and Method for Medical Device Expansion Pressure**
+*Measurement System and Method for Medical Device Expansion Pressure*
 
 * **Inventors:** Sang-Dae Kang, Sanghoek Kim, Jeongho Park, Honghyeon Park, Kwon-Ran Gu
 * **Application No.:** 10-2020-0077555
@@ -68,17 +67,17 @@ These experiences provided hands-on exposure to semiconductor design flow, layou
 
 ### Major Coursework
 
-#### Electronic Circuits
+**Electronic Circuits**
 
 * Semiconductor IC
 * Electronic Circuits Laboratory
 
-#### Communication Systems
+**Communication Systems**
 
 * Communication Theory
 * Communication Systems
 
-#### Electromagnetics
+**Electromagnetics**
 
 * Electromagnetics
 * Antenna Engineering
@@ -86,12 +85,11 @@ These experiences provided hands-on exposure to semiconductor design flow, layou
 
 ### Awards
 
-#### Best Capstone Design Project Award
+**Best Capstone Design Project Award**
 
 * Department of Electronic Engineering, Kyung Hee University
 * 2019 Fall Semester
 * Awarded for outstanding achievement in the Senior Capstone Design Project
-
 
 ### Academic Foundation
 
