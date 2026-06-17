@@ -14,7 +14,7 @@ title                    : "Honghyeon Park"
 title_separator          : "-"
 name                     : &name "Honghyeon Park"
 
-description              : &description "Analog and Mixed-Signal IC Analog Design Engineer"
+description              : &description "Analog and Mixed-Signal IC Analog Circuit Design Engineer"
 
 url                      : "https://parkhonghyeon.github.io"
 baseurl                  : "/PARHONGHYEON.github.io"
@@ -29,15 +29,15 @@ author:
 
   bio              : "Analog & Mixed-Signal IC Design Engineer"
 
-  location         : "Incheon, South Korea"
+  location         : "Seoul, South Korea"
 
-  employer         : "Semiconductor Industry"
+  employer         : "Silicon Mitus"
 
-  email            :
+  email            : honghyeon47@gmail.com
 
   github           : "parkhonghyeon"
 
-  linkedin         :
+  linkedin         : www.linkedin.com/in/parkhh0
 
   # Academic websites
   academia         :
