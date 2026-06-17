@@ -17,7 +17,7 @@ name                     : &name "Honghyeon Park"
 description              : &description "Analog and Mixed-Signal IC Analog Circuit Design Engineer"
 
 url                      : "https://parkhonghyeon.github.io"
-baseurl                  : "/PARHONGHYEON.github.io"
+baseurl                  : ""
 
 repository               : "parkhonghyeon/PARHONGHYEON.github.io"
 
