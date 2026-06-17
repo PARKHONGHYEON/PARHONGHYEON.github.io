@@ -5,6 +5,8 @@ title: "Experience"
 author_profile: true
 ---
 
+# Professional Experience
+
 ## Silicon Mitus
 
 **Senior Engineer, Analog IC Design**
@@ -21,9 +23,10 @@ Dec. 2021 – Present
 
 ### Fuel Gauge IC Development
 
-#### 1-Cell Fuel Gauge IC & 2-Cell Fuel Gauge IC
+**1-Cell Fuel Gauge IC & 2-Cell Fuel Gauge IC**
 
 * Designed **Sigma-Delta ADC** for battery monitoring applications
+
 * Designed and verified key analog building blocks:
 
   * Low-Dropout Regulator (LDO)
@@ -31,20 +34,25 @@ Dec. 2021 – Present
   * Under-Voltage Lockout (UVLO)
   * Power-On Reset (POR)
   * Phase-Locked Loop (PLL)
+
 * Participated in system-level architecture development and analog front-end design
+
 * Supported tape-out, silicon validation, and mass production
 
 ### EIS Battery Diagnostics IC
 
-#### Electrochemical Impedance Spectroscopy (EIS)
+**Electrochemical Impedance Spectroscopy (EIS)**
 
 * Designed the EIS Analog Front-End (AFE)
+
 * Contributed to overall system architecture development
+
 * Designed and verified key analog circuit blocks:
+
   * Programmable Gain Amplifier (PGA)
   * Excitation Block
-* Developed signal acquisition and measurement circuits for battery diagnostic applications
 
+* Developed signal acquisition and measurement circuits for battery diagnostic applications
 
 ### Design Tools
 
@@ -52,5 +60,4 @@ Dec. 2021 – Present
 * Spectre
 * Mentor Calibre
 * Verilog-A
-* Python(For Mixed Signal Anaylsis)
-
+* Python (for Mixed-Signal Analysis)
