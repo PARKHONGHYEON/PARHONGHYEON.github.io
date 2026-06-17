@@ -14,11 +14,12 @@ Since December 2021, I have been working as a **Fuel Gauge Analog Circuit Design
 
 My technical interests include:
 
-- Bandgap Reference Design
-- Analog-to-Digital Converters (ADC)
-- Battery Management Systems (BMS)
-- Power Management ICs (PMIC)
-- Analog Front-End (AFE)
+- Power Management ICs (PMIC) -> LDO, BGR Design
+- Fuel Gauge ADC Design
+- Battery EIS(Electrochemical Impedance Spectroscopy) System Design
+
+
+
 
 For more detailed information, please refer to the sections below.
 
