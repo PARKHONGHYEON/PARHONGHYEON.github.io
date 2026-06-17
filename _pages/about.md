@@ -1,57 +1,47 @@
 ---
-
 permalink: /about/
 title: "About"
 author_profile: true
---------------------
+---
 
 # About Me
 
 Hello, I am **Honghyeon Park**, an Analog & Mixed-Signal IC Design Engineer currently working at **Silicon Mitus**.
 
-I received my B.S. degree in Electronic Engineering from **Kyung Hee University** and completed my M.S. degree with a research focus on the development of implantable systems using wireless power transfer technology.
+I received my B.S. degree in Electronic Engineering from **Kyung Hee University** and completed my M.S. degree with a research focus on implantable systems using wireless power transfer technology.
 
-Since December 2021, I have been working as a **Fuel Gauge Analog Circuit Designer** at Silicon Mitus. My work focuses on the design and verification of precision analog circuits for battery management applications, including Bandgap References, ADCs, and other analog building blocks.
+Since December 2021, I have been working as a **Fuel Gauge Analog Circuit Designer** at Silicon Mitus.
 
 My technical interests include:
 
-* Bandgap Reference Design
-* Analog-to-Digital Converters (ADC)
-* Battery Management Systems (BMS)
-* Power Management ICs (PMIC)
-* Analog Front-End (AFE)
-* Precision Analog Circuit Design
+- Bandgap Reference Design
+- Analog-to-Digital Converters (ADC)
+- Battery Management Systems (BMS)
+- Power Management ICs (PMIC)
+- Analog Front-End (AFE)
 
 For more detailed information, please refer to the sections below.
-
----
 
 ## Education
 
 Academic background, research experience, and graduate studies.
 
-[Education →](/education/){: .btn .btn--primary}
-
----
+[Go to Education](/education/)
 
 ## Experience
 
-Professional experience, responsibilities, and technical contributions.
+Professional experience and technical contributions.
 
-[Experience →](/experience/){: .btn .btn--primary}
-
----
+[Go to Experience](/experience/)
 
 ## Projects
 
-Selected projects related to analog circuit design, verification, and system development.
+Selected analog circuit design and verification projects.
 
-[Projects →](/portfolio/){: .btn .btn--primary}
-
----
+[Go to Projects](/portfolio/)
 
 ## Resume
 
-Detailed curriculum vitae and technical background.
+Detailed curriculum vitae.
 
-[Resume →](/files/Honghyeon_Park_Resume.pdf){: .btn .btn--primary}
+[Download Resume](/files/Honghyeon_Park_Resume.pdf)
