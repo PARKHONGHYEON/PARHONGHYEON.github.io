@@ -7,7 +7,7 @@ author_profile: true
 
 ## Silicon Mitus
 
-**Principal Research Engineer, Analog IC Design**
+**Senior Engineer, Analog IC Design**
 Dec. 2021 – Present
 
 ### Responsibilities
