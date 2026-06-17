@@ -39,14 +39,12 @@ http://ael.khu.ac.kr/
   - Yun Jung Heo*
   - Sanghoek Kim*
 
+- Role:
+  - Co-Author
+  - 
 - Conference:
   - 2023 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)
 
-- Role:
-  - Co-Author
-
-- Publication:
-  - IEEE Xplore
 
 ### Patent
 
@@ -71,7 +69,7 @@ http://ael.khu.ac.kr/
 ### MPW Tape-Out Experience
 
 - IDEC Samsung 65nm MPW (2019)
-- IDEC Samsung 65nm MPW (2020)
+- IDEC Samsung 65nm MPW (2019)
 - IDEC TSMC 180nm MPW (2020)
 - IDEC TSMC 180nm MPW (2021)
 
@@ -107,6 +105,3 @@ Mar. 2013 – Feb. 2020
 - 2019 Fall Semester
 - Department of Electronic Engineering, Kyung Hee University
 
-### Reference
-
-https://ee.khu.ac.kr/ee25/user/bbs/BMSR00044/view.do
