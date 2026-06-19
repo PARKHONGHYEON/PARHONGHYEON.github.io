@@ -4,7 +4,7 @@ title: "About"
 author_profile: true
 ---
 
-# About Me
+
 
 Hello, I am **Honghyeon Park**, an Analog & Mixed-Signal IC Design Engineer currently working at **Silicon Mitus**.
 
