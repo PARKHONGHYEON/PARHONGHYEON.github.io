@@ -19,40 +19,30 @@ author_profile: true
 * ESD circuit design and reliability verification
 * Test support for silicon validation and characterization
 
-### Project Experience
+### Projects
 
-#### Fuel Gauge IC Development
-
-**1-Cell Fuel Gauge IC & 2-Cell Fuel Gauge IC**
-
-##### Key Contributions
+**Fuel Gauge IC (1-Cell & 2-Cell Solutions)**
 
 * Designed Sigma-Delta ADC for battery monitoring applications
 * Participated in system-level architecture development and analog front-end design
+* Designed and verified key analog circuit blocks:
+
+  * Low-Dropout Regulator (LDO)
+  * Bandgap Reference (BGR)
+  * Under-Voltage Lockout (UVLO)
+  * Power-On Reset (POR)
+  * Phase-Locked Loop (PLL)
 * Supported tape-out, silicon validation, and mass production
 
-##### Analog Circuit Design
-
-* Low-Dropout Regulator (LDO)
-* Bandgap Reference (BGR)
-* Under-Voltage Lockout (UVLO)
-* Power-On Reset (POR)
-* Phase-Locked Loop (PLL)
-
-#### EIS Battery Diagnostics IC
-
-**Electrochemical Impedance Spectroscopy (EIS)**
-
-##### Key Contributions
+**EIS Battery Diagnostics IC (Electrochemical Impedance Spectroscopy)**
 
 * Designed the EIS Analog Front-End (AFE)
 * Contributed to overall system architecture development
+* Designed and verified key analog circuit blocks:
+
+  * Programmable Gain Amplifier (PGA)
+  * Excitation Block
 * Developed signal acquisition and measurement circuits for battery diagnostic applications
-
-##### Analog Circuit Design
-
-* Programmable Gain Amplifier (PGA)
-* Excitation Block
 
 ### Design Tools
 
