@@ -23,8 +23,8 @@ main:
   - title: "Projects"
     url: "/portfolio/"
 
-  - title: "Resume"
-    url: "/files/Honghyeon_Park_Resume.pdf"
+  - title: "Technical_Notes"
+    url: "/Technical_Notes/"
 
   - title: "Contact"
     url: "/contact/"
