@@ -24,7 +24,7 @@ main:
     url: "/portfolio/"
 
   - title: "Technical_Notes"
-    url: "/Technical_Notes/"
+    url: "/technical_notes/"
 
   - title: "Contact"
     url: "/contact/"
