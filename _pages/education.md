@@ -1,3 +1,10 @@
+---
+
+permalink: /education/
+title: "Education"
+author_profile: true
+---
+
 ## Kyung Hee University (M.S.)
 
 * **Degree:** Master of Science in Electronic Engineering
