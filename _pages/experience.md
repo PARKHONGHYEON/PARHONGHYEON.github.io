@@ -3,14 +3,12 @@
 permalink: /experience/
 title: "Experience"
 author_profile: true
----
-
-# Professional Experience
+--------------------
 
 ## Silicon Mitus
 
-**Senior Engineer, Analog IC Design**
-Dec. 2021 – Present
+* **Position:** Senior Engineer, Analog IC Design
+* **Period:** Dec. 2021 – Present
 
 ### Responsibilities
 
@@ -21,38 +19,40 @@ Dec. 2021 – Present
 * ESD circuit design and reliability verification
 * Test support for silicon validation and characterization
 
-### Fuel Gauge IC Development
+### Project Experience
+
+#### Fuel Gauge IC Development
 
 **1-Cell Fuel Gauge IC & 2-Cell Fuel Gauge IC**
 
-* Designed **Sigma-Delta ADC** for battery monitoring applications
+##### Key Contributions
 
-* Designed and verified key analog building blocks:
-
-  * Low-Dropout Regulator (LDO)
-  * Bandgap Reference (BGR)
-  * Under-Voltage Lockout (UVLO)
-  * Power-On Reset (POR)
-  * Phase-Locked Loop (PLL)
-
+* Designed Sigma-Delta ADC for battery monitoring applications
 * Participated in system-level architecture development and analog front-end design
-
 * Supported tape-out, silicon validation, and mass production
 
-### EIS Battery Diagnostics IC
+##### Analog Circuit Design
+
+* Low-Dropout Regulator (LDO)
+* Bandgap Reference (BGR)
+* Under-Voltage Lockout (UVLO)
+* Power-On Reset (POR)
+* Phase-Locked Loop (PLL)
+
+#### EIS Battery Diagnostics IC
 
 **Electrochemical Impedance Spectroscopy (EIS)**
 
+##### Key Contributions
+
 * Designed the EIS Analog Front-End (AFE)
-
 * Contributed to overall system architecture development
-
-* Designed and verified key analog circuit blocks:
-
-  * Programmable Gain Amplifier (PGA)
-  * Excitation Block
-
 * Developed signal acquisition and measurement circuits for battery diagnostic applications
+
+##### Analog Circuit Design
+
+* Programmable Gain Amplifier (PGA)
+* Excitation Block
 
 ### Design Tools
 
